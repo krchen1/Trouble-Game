@@ -1,0 +1,3 @@
+/Users/kevinchen/CLionProjects/trouble/cmake-build-debug/CMakeFiles/trouble.dir
+/Users/kevinchen/CLionProjects/trouble/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kevinchen/CLionProjects/trouble/cmake-build-debug/CMakeFiles/rebuild_cache.dir
